@@ -1041,3 +1041,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14May2025 22:29:00.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
 [14May2025 22:29:17.769] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3136ms or 62 ticks
 [14May2025 22:29:28.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> tu construiste esto?
+[14May2025 22:29:36.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbbtick2142> si
+[14May2025 22:30:05.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> XD a la mrd cuanto tardaste?
+[14May2025 22:30:17.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbbtick2142> 1 hora
+[14May2025 22:30:41.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> xd
+[14May2025 22:30:44.819] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4558ms or 91 ticks
+[14May2025 22:30:44.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2983ms or 59 ticks behind
+[14May2025 22:30:48.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 moved too quickly! 2.8717633237642985,0.7967356006687112,-9.756435499032648
+[14May2025 22:31:04.200] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3066ms or 61 ticks
+[14May2025 22:31:06.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[14May2025 22:31:26.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5445ms or 108 ticks behind
+[14May2025 22:33:31.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Timed out
+[14May2025 22:33:31.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[14May2025 22:33:41.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.24.219.77:50407] logged in with entity id 52661 at (2914.949999988079, 64.125, -265.3364602616598)
+[14May2025 22:33:41.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[14May2025 22:35:42.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> aca hay fortuna 3 si quieres
+[14May2025 22:36:01.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> aca
+[14May2025 22:36:13.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbbtick2142> :0
+[14May2025 22:38:40.743] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/57453, l='ServerLevel[world]', x=2893.24, y=-256.00, z=-303.31] died, message: 'Villager was killed'
+[14May2025 22:40:10.687] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58790, l='ServerLevel[world]', x=2899.05, y=-256.00, z=-320.05] died, message: 'Villager was killed'
+[14May2025 22:40:12.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Timed out
+[14May2025 22:40:12.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[14May2025 22:40:46.057] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3350ms or 67 ticks

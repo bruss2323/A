@@ -1063,3 +1063,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14May2025 22:40:12.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Timed out
 [14May2025 22:40:12.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
 [14May2025 22:40:46.057] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3350ms or 67 ticks
+[14May2025 22:58:11.688] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/73050, l='ServerLevel[world]', x=2887.38, y=-256.00, z=-308.37] died, message: 'Villager was killed'
+[14May2025 23:00:42.687] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/75547, l='ServerLevel[world]', x=2887.30, y=-256.00, z=-309.44] died, message: 'Villager was killed'

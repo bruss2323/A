@@ -1328,3 +1328,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15May2025 06:13:30.138] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3110ms or 62 ticks
 [15May2025 06:14:39.587] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/163490, l='ServerLevel[world]', x=2893.24, y=-256.00, z=-303.31] died, message: 'Villager was killed'
 [15May2025 06:14:55.796] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3227ms or 64 ticks
+[15May2025 06:30:03.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/196488, l='ServerLevel[world]', x=2908.87, y=-256.00, z=-224.99] died, message: 'Villager was killed'

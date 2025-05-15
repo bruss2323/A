@@ -7877,3 +7877,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15May2025 06:14:55.796] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3227ms or 64 ticks
 [15May2025 06:16:48.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15May2025 06:16:48.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 06:21:48.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 06:21:48.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 06:26:48.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 06:26:48.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 06:30:03.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/196488, l='ServerLevel[world]', x=2908.87, y=-256.00, z=-224.99] died, message: 'Villager was killed'

@@ -1044,3 +1044,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15May2025 23:21:21.614] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3167ms or 63 ticks
 [15May2025 23:24:49.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2886, y=62, z=-212} BlockPos{x=2896, y=62, z=-211}
 [15May2025 23:26:06.886] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3023ms or 60 ticks
+[15May2025 23:35:09.719] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/78115, l='ServerLevel[world]', x=2905.19, y=-256.00, z=-216.04] died, message: 'Villager was killed'
+[15May2025 23:35:52.063] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3231ms or 64 ticks
+[15May2025 23:36:16.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 lost connection: Disconnected
+[15May2025 23:36:16.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 left the game
+[15May2025 23:36:46.357] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elbbtick2142[/172.24.192.1:56948] logged in with entity id 79044 at (2907.562780767995, 67.0, -239.17150330523046)
+[15May2025 23:36:46.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 joined the game
+[15May2025 23:37:14.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 burned to death
+[15May2025 23:37:14.285] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[15May2025 23:38:28.455] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3153ms or 63 ticks
+[15May2025 23:39:03.719] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/91585, l='ServerLevel[world]', x=2907.60, y=-256.00, z=-223.03] died, message: 'Villager was killed'
+[15May2025 23:44:06.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 lost connection: Disconnected
+[15May2025 23:44:06.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 left the game

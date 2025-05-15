@@ -9049,5 +9049,11 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
+    "criteria": {
+      "has_birch_leaves": "2025-05-15 04:05:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

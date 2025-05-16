@@ -1117,3 +1117,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16May2025 03:18:13.768] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68169, l='ServerLevel[world]', x=2887.30, y=-256.00, z=-309.44] died, message: 'Villager was killed'
 [16May2025 03:22:42.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> se puede craftear esa piedra de teletransporte ?
 [16May2025 03:23:38.767] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/75266, l='ServerLevel[world]', x=2909.21, y=-256.00, z=-212.27] died, message: 'Villager was killed'
+[16May2025 03:25:26.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 moved too quickly! -2.5999615952528075,1.1661092609382138,9.704357941930311
+[16May2025 03:25:30.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 was kicked for floating too long!
+[16May2025 03:25:30.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Flying is not enabled on this server
+[16May2025 03:25:30.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[16May2025 03:25:52.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.24.219.77:65075] logged in with entity id 79843 at (3169.00078073644, -26.99866402088785, -639.3907506688743)
+[16May2025 03:25:52.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[16May2025 03:27:33.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> me haces tp
+[16May2025 03:27:39.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Teleported Anghel956 to elbbtick2142]
+[16May2025 03:27:44.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> grax
+[16May2025 03:30:56.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> como se hace el helicoptero ?
+[16May2025 03:31:16.150] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3363ms or 67 ticks
+[16May2025 03:31:42.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbbtick2142> gyrodyne
+[16May2025 03:31:57.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbbtick2142> asi se llama
+[16May2025 03:32:04.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> ok
+[16May2025 03:34:01.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[16May2025 03:34:01.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[16May2025 03:34:20.454] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.24.219.77:49289] logged in with entity id 94366 at (2887.9060059585727, 65.0, -276.83184648805735)
+[16May2025 03:34:20.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[16May2025 03:35:09.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[16May2025 03:35:09.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[16May2025 03:35:36.728] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39ef9f0[id=<null>,name=Anghel956,properties={},legacy=false] (/172.24.219.77:49345) lost connection: Disconnected
+[16May2025 03:36:20.504] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.24.219.77:49374] logged in with entity id 114122 at (2887.9060059585727, 65.0, -276.83184648805735)
+[16May2025 03:36:20.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[16May2025 03:37:03.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Timed out
+[16May2025 03:37:03.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[16May2025 03:37:25.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.24.219.77:49452] logged in with entity id 116535 at (2887.9060059585727, 65.0, -276.83184648805735)
+[16May2025 03:37:25.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[16May2025 03:37:27.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[16May2025 03:37:27.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[16May2025 03:37:55.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.24.219.77:49482] logged in with entity id 117705 at (2887.9060059585727, 65.0, -276.83184648805735)
+[16May2025 03:37:55.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[16May2025 03:38:40.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Timed out
+[16May2025 03:38:40.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[16May2025 03:39:14.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.24.219.77:49559] logged in with entity id 120295 at (2892.3345593428267, 64.0, -291.8599819569397)
+[16May2025 03:39:14.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[16May2025 03:40:05.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Timed out
+[16May2025 03:40:05.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[16May2025 03:40:23.767] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/122588, l='ServerLevel[world]', x=2909.71, y=-256.00, z=-212.03] died, message: 'Villager was killed'
+[16May2025 03:40:51.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.24.219.77:49647] logged in with entity id 124455 at (2891.498936924332, 64.0, -293.07499998807907)
+[16May2025 03:40:51.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[16May2025 03:42:06.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Timed out
+[16May2025 03:42:06.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[16May2025 03:42:51.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.24.219.77:49787] logged in with entity id 129549 at (2894.8281753726833, 64.0, -294.88446513090634)
+[16May2025 03:42:51.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[16May2025 03:43:46.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Timed out
+[16May2025 03:43:46.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game

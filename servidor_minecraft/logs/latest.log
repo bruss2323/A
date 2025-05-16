@@ -1022,3 +1022,89 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16May2025 03:02:52.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
 [16May2025 03:04:14.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> hat granja de experiencia?
 [16May2025 03:04:21.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbbtick2142> no}
+[16May2025 03:06:16.158] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3321ms or 66 ticks
+[16May2025 03:06:55.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -9.608556928852067,0.0,-4.425892725252055
+[16May2025 03:06:55.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -10.331964976496238,0.0,-4.736769520196248
+[16May2025 03:06:55.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -11.064304166027341,0.0,-5.026569530655252
+[16May2025 03:06:55.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -11.804208062588714,0.0,-5.2970045874047
+[16May2025 03:06:55.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.553579863289087,0.0,-5.539216255973514
+[16May2025 03:06:55.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -13.311525584631454,0.0,-5.752577918720704
+[16May2025 03:06:55.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -14.077058909525022,0.0,-5.936491927083097
+[16May2025 03:06:55.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -14.849796359223092,0.0,-6.085805820107964
+[16May2025 03:06:55.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -15.628800892761774,0.0,-6.19457352735742
+[16May2025 03:06:55.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -16.336618817067574,0.0,-6.419605226705272
+[16May2025 03:06:55.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -17.021656034433363,0.0,-6.711069169372934
+[16May2025 03:06:55.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -17.699504181986413,0.0,-7.040236862697071
+[16May2025 03:06:55.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -18.37650996819457,0.0,-7.388584231565773
+[16May2025 03:06:55.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -19.058989188682062,0.0,-7.737940814928123
+[16May2025 03:06:55.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -19.424170212397257,0.0,-7.924874557266492
+[16May2025 03:06:55.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -19.619571297263064,0.0,-8.024899075735021
+[16May2025 03:06:55.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -19.724126521897233,0.0,-8.078420201293767
+[16May2025 03:06:55.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -19.780071937992943,0.0,-8.107058288484126
+[16May2025 03:06:55.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -19.81000721471446,0.0,-8.122381957957828
+[16May2025 03:06:55.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -19.826024984442938,0.0,-8.130581347972196
+[16May2025 03:06:55.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -19.83459577366466,0.0,-8.134968678090672
+[16May2025 03:06:55.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -19.839181832094255,0.0,-8.134968678090672
+[16May2025 03:06:55.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -19.908405093975944,0.0,-7.958888537450463
+[16May2025 03:06:56.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -11.147701552739363,0.0,-3.572395395719468
+[16May2025 03:06:56.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -11.340717110736932,0.0,-3.1602536473365888
+[16May2025 03:06:56.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -11.56272058437844,0.0,-2.6523396769225656
+[16May2025 03:06:56.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -11.79011972775288,0.0,-2.0674940707841927
+[16May2025 03:06:56.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -11.911796475522806,0.0,-1.754554847502959
+[16May2025 03:06:56.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -11.976903277281963,0.0,-1.587107308460162
+[16May2025 03:06:56.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.01174062881364,0.0,-1.4975094688621198
+[16May2025 03:06:56.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.030381401036266,0.0,-1.4495674512814105
+[16May2025 03:06:56.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.04035570659562,0.0,-1.4239146335346788
+[16May2025 03:06:56.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.4101883222204208
+[16May2025 03:06:56.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.4028436467092718
+[16May2025 03:06:56.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:56.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:56.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:56.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:56.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:56.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:56.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:57.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:57.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:57.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:57.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:57.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:57.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:57.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:57.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:57.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:57.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:57.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:57.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:57.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:06:57.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.045692758634232,0.0,-1.3989136572803034
+[16May2025 03:07:16.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -9.875210248811072,0.8293085071571227,-1.640311782069233
+[16May2025 03:07:16.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -10.412919426128155,1.1050261533519716,-1.6495098539779747
+[16May2025 03:07:16.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -10.928378049316507,1.2929933844158654,-1.6575559414927454
+[16May2025 03:07:16.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -11.423994711244177,1.396685115147747,-1.6645006294528457
+[16May2025 03:07:16.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -11.901916808916667,1.419438653785491,-1.6704114151701503
+[16May2025 03:07:16.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! -12.364059029252076,1.36445915122313,-1.6753605488215442
+[16May2025 03:07:17.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! 12.40573094942556,0.4622222505675495,0.011725894143154392
+[16May2025 03:07:17.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! 12.40573094942556,0.4622222505675495,0.011725894143154392
+[16May2025 03:07:17.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! 12.40573094942556,0.4622222505675495,0.011725894143154392
+[16May2025 03:07:17.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! 12.40573094942556,0.4622222505675495,0.011725894143154392
+[16May2025 03:07:17.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! 12.40573094942556,0.4622222505675495,0.011725894143154392
+[16May2025 03:07:17.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! 12.40573094942556,0.4622222505675495,0.011725894143154392
+[16May2025 03:07:17.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! 11.992414909026593,0.3853902490721879,0.011725894143154392
+[16May2025 03:07:17.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! 11.735327148091528,0.2347687919045427,0.012170296265736624
+[16May2025 03:07:17.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! 11.470125687931613,0.013279940129947931,0.012614698388318857
+[16May2025 03:07:17.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Anghel956) moved too quickly! 11.197688430594553,0.0,0.01305910051090109
+[16May2025 03:08:27.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Timed out
+[16May2025 03:08:27.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[16May2025 03:08:48.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.24.219.77:64170] logged in with entity id 37084 at (2905.8790234344874, 64.0, -245.33899420497366)
+[16May2025 03:08:48.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[16May2025 03:09:50.063] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/33400, l='ServerLevel[world]', x=2902.98, y=64.00, z=-275.90]
+[16May2025 03:11:18.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Timed out
+[16May2025 03:11:18.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[16May2025 03:11:42.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.24.219.77:64365] logged in with entity id 55351 at (3170.263717592017, 61.0, -474.886792111328)
+[16May2025 03:11:42.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[16May2025 03:11:42.811] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3058ms or 61 ticks
+[16May2025 03:14:00.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Timed out
+[16May2025 03:14:00.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[16May2025 03:14:20.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.24.219.77:64504] logged in with entity id 62001 at (3165.8078218527075, 57.0, -474.4421257927758)
+[16May2025 03:14:20.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game

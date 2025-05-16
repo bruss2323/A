@@ -4731,77 +4731,113 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 03:13:16 +0000"
+      "has_lapis_lazuli": "2025-05-16 03:20:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 03:13:16 +0000"
+      "has_redstone": "2025-05-16 03:19:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/redstone/target": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 03:13:16 +0000"
+      "has_redstone": "2025-05-16 03:19:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/tools/compass": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 03:13:16 +0000"
+      "has_redstone": "2025-05-16 03:19:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 03:13:16 +0000"
+      "has_raw_copper": "2025-05-16 03:17:14 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 03:13:16 +0000"
+      "has_raw_copper": "2025-05-16 03:17:14 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 03:13:16 +0000"
+      "has_water_bucket": "2025-05-16 03:19:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 03:13:16 +0000"
+      "has_redstone": "2025-05-16 03:19:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 03:13:16 +0000"
+      "has_ingredient": "2025-05-16 03:19:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/misc/blue_dye": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 03:13:16 +0000"
+      "has_lapis_lazuli": "2025-05-16 03:20:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/tools/clock": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 03:13:16 +0000"
+      "has_redstone": "2025-05-16 03:19:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/redstone/note_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 03:13:16 +0000"
+      "has_redstone": "2025-05-16 03:19:46 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-05-16 03:19:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-05-16 03:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-16 03:19:46 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-05-16 03:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-16 03:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-16 03:19:46 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

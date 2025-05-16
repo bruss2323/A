@@ -1108,3 +1108,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16May2025 03:14:00.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
 [16May2025 03:14:20.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.24.219.77:64504] logged in with entity id 62001 at (3165.8078218527075, 57.0, -474.4421257927758)
 [16May2025 03:14:20.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[16May2025 03:15:40.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> no encontraron al guarden ?
+[16May2025 03:15:51.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbbtick2142> admirr y bruss
+[16May2025 03:15:59.767] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65549, l='ServerLevel[world]', x=2905.16, y=-256.00, z=-216.08] died, message: 'Villager was killed'
+[16May2025 03:16:09.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> esos kbros
+[16May2025 03:16:17.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbbtick2142> XDD
+[16May2025 03:17:39.766] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/67569, l='ServerLevel[world]', x=2909.28, y=-256.00, z=-212.66] died, message: 'Villager was killed'
+[16May2025 03:18:13.768] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68169, l='ServerLevel[world]', x=2887.30, y=-256.00, z=-309.44] died, message: 'Villager was killed'
+[16May2025 03:22:42.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> se puede craftear esa piedra de teletransporte ?
+[16May2025 03:23:38.767] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/75266, l='ServerLevel[world]', x=2909.21, y=-256.00, z=-212.27] died, message: 'Villager was killed'

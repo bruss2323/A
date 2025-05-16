@@ -9193,5 +9193,11 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_arrow": {
+    "criteria": {
+      "has_item": "2025-05-16 05:10:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

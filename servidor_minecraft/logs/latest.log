@@ -1,151 +1,151 @@
-[15May2025 22:54:19.465] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[15May2025 22:54:19.469] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[15May2025 22:54:31.015] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[15May2025 22:54:31.427] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/A/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[15May2025 22:54:32.219] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/A/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
-[15May2025 22:54:32.221] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/A/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[15May2025 22:54:32.222] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/A/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[15May2025 22:54:32.223] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/A/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[15May2025 22:54:32.727] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[15May2025 22:54:32.729] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/A/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
-[15May2025 22:54:32.730] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 17 dependencies adding them to mods collection
-[15May2025 22:54:37.272] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[15May2025 22:54:37.300] [main/ERROR] [mixin/]: Mixin config palladiumcore-common.mixins.json does not specify "minVersion" property
-[15May2025 22:54:37.303] [main/ERROR] [mixin/]: Mixin config palladiumcore.mixins.json does not specify "minVersion" property
-[15May2025 22:54:37.575] [main/ERROR] [mixin/]: Mixin config furniture-common.mixins.json does not specify "minVersion" property
-[15May2025 22:54:37.700] [main/ERROR] [mixin/]: Mixin config vc_gliders-common.mixins.json does not specify "minVersion" property
-[15May2025 22:54:37.704] [main/ERROR] [mixin/]: Mixin config vc_gliders.mixins.json does not specify "minVersion" property
-[15May2025 22:54:37.831] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
-[15May2025 22:54:37.838] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[15May2025 22:54:38.132] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.21.0+mc1.20.1: 88 options available, 1 override(s) found
-[15May2025 22:54:38.133] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.buffer_builder_leak' overriden (by mods [witherstormmod]) to 'false'
-[15May2025 22:54:38.134] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[15May2025 22:54:38.152] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[15May2025 22:54:38.598] [main/WARN] [mixin/]: Reference map 'mixins.luminous_nether.refmap.json' for mixins.luminous_nether.json could not be read. If this is a development environment you can ignore this message
-[15May2025 22:54:38.628] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[15May2025 22:54:38.704] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[15May2025 22:54:38.773] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[15May2025 22:54:38.791] [main/WARN] [mixin/]: Reference map 'immersive_paintings-common-refmap.json' for immersive_paintings.mixin.json could not be read. If this is a development environment you can ignore this message
-[15May2025 22:54:38.851] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[15May2025 22:54:38.862] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[15May2025 22:54:39.799] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[15May2025 22:54:39.865] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[15May2025 22:54:40.260] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[15May2025 22:54:40.261] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[15May2025 22:54:40.261] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[15May2025 22:54:40.971] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[15May2025 22:54:40.972] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[15May2025 22:54:41.965] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Camera for invalid dist DEDICATED_SERVER
-[15May2025 22:54:41.966] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/Camera (java.lang.RuntimeException: Attempted to load class net/minecraft/client/Camera for invalid dist DEDICATED_SERVER)
-[15May2025 22:54:41.966] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.Camera was not found shouldersurfing.forge.compat.mixins.json:epicfight.AccessorCamera
-[15May2025 22:54:41.969] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class yesman/epicfight/client/events/engine/RenderEngine for invalid dist DEDICATED_SERVER
-[15May2025 22:54:41.970] [main/WARN] [mixin/]: Error loading class: yesman/epicfight/client/events/engine/RenderEngine (java.lang.RuntimeException: Attempted to load class yesman/epicfight/client/events/engine/RenderEngine for invalid dist DEDICATED_SERVER)
-[15May2025 22:54:42.003] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[15May2025 22:54:42.909] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (30.01 s after launch)
-[15May2025 22:54:43.110] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[15May2025 22:54:43.110] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[15May2025 22:54:44.255] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[15May2025 22:54:44.257] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[15May2025 22:54:46.052] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3139 milliseconds
-[15May2025 22:54:46.906] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[15May2025 22:54:46.907] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[15May2025 22:54:47.004] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[15May2025 22:54:47.004] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[15May2025 22:54:47.459] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=1 on palladiumcore-common.mixins.json:LightningBoltMixin::handler$zbp000$tick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[15May2025 22:54:48.120] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on witherstormmod.mixins.json:MixinSwellGoal::handler$znf000$canUseInvoke exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[15May2025 22:54:48.737] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[15May2025 22:54:48.737] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[15May2025 22:54:48.737] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[15May2025 22:54:48.738] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[15May2025 22:54:48.826] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zpp000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[15May2025 22:54:49.983] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[16May2025 02:54:44.226] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[16May2025 02:54:44.234] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[16May2025 02:54:47.807] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[16May2025 02:54:47.869] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/A/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[16May2025 02:54:48.421] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/A/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[16May2025 02:54:48.422] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/A/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[16May2025 02:54:48.423] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/A/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[16May2025 02:54:48.425] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/A/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[16May2025 02:54:48.760] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[16May2025 02:54:48.764] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/A/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[16May2025 02:54:48.766] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 17 dependencies adding them to mods collection
+[16May2025 02:54:52.670] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[16May2025 02:54:52.700] [main/ERROR] [mixin/]: Mixin config palladiumcore-common.mixins.json does not specify "minVersion" property
+[16May2025 02:54:52.704] [main/ERROR] [mixin/]: Mixin config palladiumcore.mixins.json does not specify "minVersion" property
+[16May2025 02:54:52.914] [main/ERROR] [mixin/]: Mixin config furniture-common.mixins.json does not specify "minVersion" property
+[16May2025 02:54:52.992] [main/ERROR] [mixin/]: Mixin config vc_gliders-common.mixins.json does not specify "minVersion" property
+[16May2025 02:54:52.995] [main/ERROR] [mixin/]: Mixin config vc_gliders.mixins.json does not specify "minVersion" property
+[16May2025 02:54:53.107] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[16May2025 02:54:53.111] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[16May2025 02:54:53.245] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.21.0+mc1.20.1: 88 options available, 1 override(s) found
+[16May2025 02:54:53.246] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.buffer_builder_leak' overriden (by mods [witherstormmod]) to 'false'
+[16May2025 02:54:53.247] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[16May2025 02:54:53.270] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[16May2025 02:54:53.644] [main/WARN] [mixin/]: Reference map 'mixins.luminous_nether.refmap.json' for mixins.luminous_nether.json could not be read. If this is a development environment you can ignore this message
+[16May2025 02:54:53.672] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[16May2025 02:54:53.731] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[16May2025 02:54:53.803] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[16May2025 02:54:53.817] [main/WARN] [mixin/]: Reference map 'immersive_paintings-common-refmap.json' for immersive_paintings.mixin.json could not be read. If this is a development environment you can ignore this message
+[16May2025 02:54:53.879] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[16May2025 02:54:53.891] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[16May2025 02:54:54.786] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[16May2025 02:54:54.811] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[16May2025 02:54:55.225] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[16May2025 02:54:55.228] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[16May2025 02:54:55.229] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[16May2025 02:54:56.155] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[16May2025 02:54:56.155] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[16May2025 02:54:56.963] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Camera for invalid dist DEDICATED_SERVER
+[16May2025 02:54:56.964] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/Camera (java.lang.RuntimeException: Attempted to load class net/minecraft/client/Camera for invalid dist DEDICATED_SERVER)
+[16May2025 02:54:56.964] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.Camera was not found shouldersurfing.forge.compat.mixins.json:epicfight.AccessorCamera
+[16May2025 02:54:56.967] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class yesman/epicfight/client/events/engine/RenderEngine for invalid dist DEDICATED_SERVER
+[16May2025 02:54:56.967] [main/WARN] [mixin/]: Error loading class: yesman/epicfight/client/events/engine/RenderEngine (java.lang.RuntimeException: Attempted to load class yesman/epicfight/client/events/engine/RenderEngine for invalid dist DEDICATED_SERVER)
+[16May2025 02:54:56.999] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[16May2025 02:54:57.808] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (17.13 s after launch)
+[16May2025 02:54:57.968] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[16May2025 02:54:57.969] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[16May2025 02:54:59.023] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[16May2025 02:54:59.027] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[16May2025 02:55:00.972] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3156 milliseconds
+[16May2025 02:55:01.918] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[16May2025 02:55:01.919] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[16May2025 02:55:02.007] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[16May2025 02:55:02.007] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[16May2025 02:55:02.487] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=1 on palladiumcore-common.mixins.json:LightningBoltMixin::handler$zbp000$tick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[16May2025 02:55:03.178] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on witherstormmod.mixins.json:MixinSwellGoal::handler$znf000$canUseInvoke exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[16May2025 02:55:03.890] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[16May2025 02:55:03.890] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[16May2025 02:55:03.891] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[16May2025 02:55:03.891] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[16May2025 02:55:03.943] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zpp000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[16May2025 02:55:05.184] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[15May2025 22:54:51.172] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[15May2025 22:54:51.874] [modloading-worker-0/INFO] [de.keksuccino.melody.Melody/]: [MELODY] Disabling Melody since it's loaded server-side.
-[15May2025 22:54:51.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[15May2025 22:54:51.898] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[15May2025 22:54:52.245] [modloading-worker-0/INFO] [me.wesley1808.servercore.common.ServerCore/]: [ServerCore] Loaded V1.5.2+1.20.1!
-[15May2025 22:54:52.293] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
-[15May2025 22:54:52.305] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[15May2025 22:54:52.858] [modloading-worker-0/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[15May2025 22:54:53.079] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[15May2025 22:54:53.080] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
-[15May2025 22:54:53.080] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
-[15May2025 22:54:53.082] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
-[15May2025 22:54:53.081] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
-[15May2025 22:54:53.082] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
-[15May2025 22:54:53.084] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
-[15May2025 22:54:53.087] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
-[15May2025 22:54:53.088] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
-[15May2025 22:54:53.088] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
-[15May2025 22:54:53.089] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
-[15May2025 22:54:53.089] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
-[15May2025 22:54:53.090] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
-[15May2025 22:54:53.090] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
-[15May2025 22:54:53.835] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[15May2025 22:54:54.101] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
-[15May2025 22:54:54.106] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: IceAndFireCompat
-[15May2025 22:54:54.131] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[15May2025 22:54:54.193] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
-[15May2025 22:54:54.196] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
-[15May2025 22:54:54.946] [modloading-worker-0/INFO] [com.teamdurt.netherdungeons.NetherDungeons/]: Nether Dungeons mod init finished.
-[15May2025 22:54:55.159] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[15May2025 22:54:55.261] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[15May2025 22:54:55.300] [modloading-worker-0/INFO] [wan_ancient_beasts/]: Welcome to Wan Ancient Beasts Mod [1.1.5 for 1.20.1]
-[15May2025 22:55:01.775] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[15May2025 22:55:01.775] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
-[15May2025 22:55:03.196] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
-[15May2025 22:55:03.258] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.chicken.OChicken
-[15May2025 22:55:03.259] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.chicken.OChicken
-[15May2025 22:55:03.260] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.sheep.OSheep
-[15May2025 22:55:03.260] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.sheep.OSheep
-[15May2025 22:55:03.261] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.pig.OPig
-[15May2025 22:55:03.261] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.pig.OPig
-[15May2025 22:55:03.262] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.camel.OCamel
-[15May2025 22:55:03.262] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.camel.OCamel
-[15May2025 22:55:03.262] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.cow.ox.Ox
-[15May2025 22:55:03.263] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.cow.ox.Ox
-[15May2025 22:55:03.263] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.goat.OGoat
-[15May2025 22:55:03.263] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.goat.OGoat
-[15May2025 22:55:03.264] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.caribou.Caribou
-[15May2025 22:55:03.264] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.caribou.Caribou
-[15May2025 22:55:03.359] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[15May2025 22:55:03.407] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15May2025 22:55:03.407] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15May2025 22:55:03.408] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15May2025 22:55:03.408] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15May2025 22:55:03.408] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15May2025 22:55:03.409] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15May2025 22:55:03.409] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15May2025 22:55:03.409] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15May2025 22:55:03.409] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[15May2025 22:55:03.919] [main/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[15May2025 22:55:04.158] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[15May2025 22:55:04.508] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[15May2025 22:55:04.916] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[15May2025 22:55:05.411] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[15May2025 22:55:05.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[15May2025 22:55:05.429] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
-[15May2025 22:55:05.429] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
-[15May2025 22:55:05.451] [main/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Starting to register Curios item...
-[15May2025 22:55:05.569] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[15May2025 22:55:05.701] [main/INFO] [journeymap/]: Initializing Packet Registries
-[15May2025 22:55:05.780] [main/INFO] [wan_ancient_beasts/]: Hello World from Wan's Ancient Beasts Server Side
-[15May2025 22:55:05.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
-[15May2025 22:55:05.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
-[15May2025 22:55:05.847] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: UP_TO_DATE Current: 4.2.1 Target: null
-[15May2025 22:55:05.847] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[15May2025 22:55:05.858] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
-[15May2025 22:55:05.858] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftys_endvillages] Starting version check at https://api.modrinth.com/updates/NFlNaUBA/forge_updates.json
-[15May2025 22:55:06.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftys_endvillages] Found status: OUTDATED Current: 1 Target: 1+mod
-[15May2025 22:55:06.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/version_check.json
-[15May2025 22:55:06.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Found status: UP_TO_DATE Current: 3.7.0-alpha.2 Target: null
-[15May2025 22:55:06.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[15May2025 22:55:06.099] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[15May2025 22:55:06.198] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
-[15May2025 22:55:06.208] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
-[15May2025 22:55:06.219] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[15May2025 22:55:06.220] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[16May2025 02:55:06.221] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[16May2025 02:55:06.932] [modloading-worker-0/INFO] [de.keksuccino.melody.Melody/]: [MELODY] Disabling Melody since it's loaded server-side.
+[16May2025 02:55:06.951] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[16May2025 02:55:06.954] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[16May2025 02:55:07.213] [modloading-worker-0/INFO] [me.wesley1808.servercore.common.ServerCore/]: [ServerCore] Loaded V1.5.2+1.20.1!
+[16May2025 02:55:07.253] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[16May2025 02:55:07.261] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[16May2025 02:55:07.713] [modloading-worker-0/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16May2025 02:55:07.901] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[16May2025 02:55:07.957] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
+[16May2025 02:55:07.957] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
+[16May2025 02:55:07.958] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
+[16May2025 02:55:07.958] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
+[16May2025 02:55:07.958] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
+[16May2025 02:55:07.962] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
+[16May2025 02:55:07.962] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
+[16May2025 02:55:07.963] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
+[16May2025 02:55:07.963] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
+[16May2025 02:55:07.963] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
+[16May2025 02:55:07.964] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
+[16May2025 02:55:07.968] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
+[16May2025 02:55:07.968] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
+[16May2025 02:55:08.652] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[16May2025 02:55:08.934] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[16May2025 02:55:08.953] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: IceAndFireCompat
+[16May2025 02:55:08.977] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[16May2025 02:55:09.089] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[16May2025 02:55:09.090] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[16May2025 02:55:09.994] [modloading-worker-0/INFO] [com.teamdurt.netherdungeons.NetherDungeons/]: Nether Dungeons mod init finished.
+[16May2025 02:55:10.130] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[16May2025 02:55:10.203] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[16May2025 02:55:10.271] [modloading-worker-0/INFO] [wan_ancient_beasts/]: Welcome to Wan Ancient Beasts Mod [1.1.5 for 1.20.1]
+[16May2025 02:55:16.626] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[16May2025 02:55:16.627] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[16May2025 02:55:18.197] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
+[16May2025 02:55:18.264] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.chicken.OChicken
+[16May2025 02:55:18.264] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.chicken.OChicken
+[16May2025 02:55:18.265] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.sheep.OSheep
+[16May2025 02:55:18.265] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.sheep.OSheep
+[16May2025 02:55:18.266] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.pig.OPig
+[16May2025 02:55:18.266] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.pig.OPig
+[16May2025 02:55:18.267] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.camel.OCamel
+[16May2025 02:55:18.267] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.camel.OCamel
+[16May2025 02:55:18.267] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.cow.ox.Ox
+[16May2025 02:55:18.268] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.cow.ox.Ox
+[16May2025 02:55:18.268] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.goat.OGoat
+[16May2025 02:55:18.268] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.goat.OGoat
+[16May2025 02:55:18.269] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.caribou.Caribou
+[16May2025 02:55:18.269] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.dragn0007.dragnlivestock.entities.cow.OCow from class com.dragn0007.dragnlivestock.entities.caribou.Caribou
+[16May2025 02:55:18.364] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[16May2025 02:55:18.424] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16May2025 02:55:18.424] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16May2025 02:55:18.424] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16May2025 02:55:18.425] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16May2025 02:55:18.425] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16May2025 02:55:18.425] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16May2025 02:55:18.425] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16May2025 02:55:18.425] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16May2025 02:55:18.425] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[16May2025 02:55:18.904] [main/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16May2025 02:55:19.085] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[16May2025 02:55:19.781] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[16May2025 02:55:20.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[16May2025 02:55:20.860] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[16May2025 02:55:20.861] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[16May2025 02:55:20.861] [main/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Starting to register Curios item...
+[16May2025 02:55:20.873] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
+[16May2025 02:55:20.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[16May2025 02:55:20.966] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[16May2025 02:55:21.045] [main/INFO] [journeymap/]: Initializing Packet Registries
+[16May2025 02:55:21.112] [main/INFO] [wan_ancient_beasts/]: Hello World from Wan's Ancient Beasts Server Side
+[16May2025 02:55:21.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[16May2025 02:55:21.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
+[16May2025 02:55:21.315] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: UP_TO_DATE Current: 4.2.1 Target: null
+[16May2025 02:55:21.315] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[16May2025 02:55:21.335] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
+[16May2025 02:55:21.336] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftys_endvillages] Starting version check at https://api.modrinth.com/updates/NFlNaUBA/forge_updates.json
+[16May2025 02:55:21.437] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftys_endvillages] Found status: OUTDATED Current: 1 Target: 1+mod
+[16May2025 02:55:21.438] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/version_check.json
+[16May2025 02:55:21.444] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[16May2025 02:55:21.509] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Found status: UP_TO_DATE Current: 3.7.0-alpha.2 Target: null
+[16May2025 02:55:21.510] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[16May2025 02:55:21.542] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
+[16May2025 02:55:21.548] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[16May2025 02:55:21.557] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[16May2025 02:55:21.558] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
 java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 	at com.github.exopandora.shouldersurfing.plugin.ShoulderSurfingPlugin.register(ShoulderSurfingPlugin.java:26) ~[ShoulderSurfing-Forge-1.20.1-4.11.1.jar%23293!/:1.20.1-4.11.1]
 	at com.github.exopandora.shouldersurfing.plugin.PluginLoader.loadPlugin(PluginLoader.java:33) ~[ShoulderSurfing-Forge-1.20.1-4.11.1.jar%23293!/:1.20.1-4.11.1]
@@ -176,7 +176,7 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 17 more
-[15May2025 22:55:06.246] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[16May2025 02:55:21.678] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -191,8 +191,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[15May2025 22:55:06.249] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[15May2025 22:55:06.294] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[16May2025 02:55:21.679] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[16May2025 02:55:21.706] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -207,10 +207,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[15May2025 22:55:06.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[15May2025 22:55:06.305] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[15May2025 22:55:06.305] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[15May2025 22:55:06.336] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[16May2025 02:55:21.707] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[16May2025 02:55:21.722] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[16May2025 02:55:21.722] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[16May2025 02:55:21.750] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -225,438 +225,439 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[15May2025 22:55:06.337] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[15May2025 22:55:06.441] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[15May2025 22:55:06.441] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[15May2025 22:55:06.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[15May2025 22:55:06.527] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[15May2025 22:55:06.536] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.537] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.538] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.538] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.539] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.539] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.540] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.540] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.541] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.541] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.543] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.543] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.544] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.545] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.545] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.546] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.547] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.547] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.548] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.549] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.550] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.551] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.552] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.552] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.553] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.553] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.554] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.555] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.556] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.556] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.557] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.557] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.558] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.558] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.559] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.560] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.560] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.561] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.562] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.562] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.563] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.564] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.564] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.565] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.566] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.566] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.568] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.568] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.569] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.569] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.570] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.570] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.571] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.572] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.572] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.573] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.574] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.574] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.575] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.575] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.576] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.576] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.577] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.578] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.579] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.579] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.580] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.580] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.581] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.581] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.582] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.583] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.583] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.583] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.583] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.584] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.584] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.584] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.584] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.585] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.585] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.585] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.585] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.586] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.586] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.586] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.586] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.587] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.587] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.587] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.588] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.588] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.588] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.588] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.589] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.589] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.589] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.589] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.590] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.590] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.590] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.590] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.591] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.591] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.591] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.591] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.592] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.592] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.592] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.593] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.596] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.596] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.596] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.597] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.597] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.597] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.597] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.598] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.598] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.598] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.599] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.599] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.599] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.599] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.599] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.600] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.600] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.600] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.601] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.601] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.601] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.601] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.602] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:06.602] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:06.666] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
-[15May2025 22:55:06.666] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
-[15May2025 22:55:07.105] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: OUTDATED Current: 1.20.1-1.0.17 Target: 1.20.1-1.0.18
-[15May2025 22:55:07.106] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_2032_worldheight] Starting version check at https://api.modrinth.com/updates/JTNe4RSx/forge_updates.json
-[15May2025 22:55:07.152] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15May2025 22:55:07.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_2032_worldheight] Found status: OUTDATED Current: 1.0 Target: 1.0+mod
-[15May2025 22:55:07.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[15May2025 22:55:07.191] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.0.15 Target: 8.1.32
-[15May2025 22:55:07.597] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.598] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.598] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.598] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.598] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.598] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.599] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.599] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.599] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.599] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.599] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.599] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.599] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.600] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.600] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.600] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.600] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.600] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.600] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.600] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.601] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.601] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.601] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.601] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.601] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.601] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.601] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.602] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.602] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.602] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.602] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.602] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.603] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.603] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.603] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.603] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.603] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.603] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.604] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.604] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.604] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.604] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.604] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.604] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.604] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.605] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.605] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.605] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.605] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.605] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.605] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.606] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.606] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.606] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.606] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.606] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.606] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.607] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.607] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.607] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.607] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.607] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.608] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.608] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.608] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.608] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.608] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.608] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.609] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.609] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.609] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.609] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.609] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.610] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.610] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.610] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.610] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.610] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.610] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.610] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.611] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.611] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.611] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.611] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.611] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.611] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.611] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.611] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.612] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.612] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.612] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.612] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.612] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.612] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.613] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.613] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.613] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.613] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.613] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.613] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.614] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.614] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.614] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.614] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.614] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.614] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.615] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.615] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.615] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.615] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.615] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.616] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.616] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.616] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.616] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.616] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.616] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.617] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.617] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.617] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.617] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.617] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.617] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.617] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.618] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.618] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.618] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.618] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.618] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.618] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.619] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.619] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.619] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.619] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.768] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.768] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.769] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.769] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.770] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.770] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.770] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.770] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.770] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.770] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.770] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.771] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.771] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.771] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.771] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.771] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.771] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.771] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.771] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.772] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.772] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.772] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.772] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.772] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.772] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.772] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.773] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.773] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.773] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.773] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.773] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.774] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.774] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.774] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.774] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.774] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.774] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.775] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.775] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.775] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.775] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.775] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.775] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.775] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.776] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.776] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.776] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.776] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.776] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.776] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.777] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.777] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.777] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.777] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.777] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.777] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.778] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.779] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.779] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.779] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.779] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.779] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.780] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.781] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.781] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.782] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.782] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.782] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.783] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.783] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.783] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.783] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.783] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.784] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.784] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.785] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.785] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.785] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.785] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.785] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.785] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.785] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.786] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.786] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.787] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.787] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.787] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.787] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.788] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.788] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.788] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.788] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.788] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.788] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.788] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.788] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.789] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.789] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.789] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.789] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.789] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.789] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.790] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.790] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.790] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.792] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.792] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.792] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.793] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.793] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.793] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.794] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.794] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.794] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.794] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.794] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.795] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.798] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.798] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.798] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.798] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.799] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.799] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.799] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.799] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.799] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.799] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.800] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.800] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.800] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.800] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.800] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:07.800] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[15May2025 22:55:07.800] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[15May2025 22:55:08.155] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/A/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23319!/assets/.mcassetsroot' uses unexpected schema
-[15May2025 22:55:08.155] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/A/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23319!/data/.mcassetsroot' uses unexpected schema
-[15May2025 22:55:08.359] [main/ERROR] [Cristel Lib/]: Cristel Lib Config Pack has no data
-[15May2025 22:55:08.362] [main/WARN] [Cristel Lib/]: T&T Waystone Patch Pack accepted!
-[15May2025 22:55:09.529] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
-[15May2025 22:55:13.616] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[15May2025 22:55:13.788] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag unusualend:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.3.0-forge-1.20.1.jar)
-[15May2025 22:55:13.791] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:void_tracker_located as it is missing following references: minecraft: (from unusualend-2.3.0-forge-1.20.1.jar)
-[15May2025 22:55:14.004] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag blueprint:generates_overrides as it is missing following references: unusualend:prismalite_gem (from unusualend-2.3.0-forge-1.20.1.jar), 
+[16May2025 02:55:21.751] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[16May2025 02:55:21.830] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.830] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.831] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.831] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.832] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.832] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.833] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.833] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.834] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.834] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.834] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.835] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.835] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.835] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.836] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.836] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.836] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.837] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.837] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.837] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.837] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.838] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.838] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.839] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.840] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.840] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.842] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.842] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.843] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.844] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.845] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.845] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.846] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.846] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.846] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.846] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.847] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.847] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.847] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.847] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.849] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.849] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.849] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.849] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.850] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.850] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.850] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.851] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.851] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.852] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.852] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.853] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.853] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.853] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.853] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.854] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.854] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.854] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.855] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.855] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.855] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.855] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.856] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.856] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.857] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.857] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[16May2025 02:55:21.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[16May2025 02:55:21.857] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.857] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.858] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.858] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.859] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.859] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.859] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.859] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.860] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.860] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.860] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.860] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.861] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.861] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.861] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.861] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.862] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.862] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.862] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.862] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.863] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.863] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.863] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.863] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.864] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.864] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.864] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.865] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.866] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.866] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.867] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.867] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.867] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.867] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.868] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.868] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.868] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.868] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.872] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.872] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.872] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.873] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.874] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.874] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.875] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.875] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.875] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.875] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.875] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.876] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.877] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.877] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.877] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.877] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.878] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.878] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.878] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.878] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.879] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.879] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.879] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.879] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.880] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.880] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.880] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.880] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.880] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:21.880] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:21.966] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[16May2025 02:55:21.966] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16May2025 02:55:22.168] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[16May2025 02:55:22.168] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[16May2025 02:55:22.438] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16May2025 02:55:22.760] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: OUTDATED Current: 1.20.1-1.0.17 Target: 1.20.1-1.0.18
+[16May2025 02:55:22.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_2032_worldheight] Starting version check at https://api.modrinth.com/updates/JTNe4RSx/forge_updates.json
+[16May2025 02:55:22.809] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_2032_worldheight] Found status: OUTDATED Current: 1.0 Target: 1.0+mod
+[16May2025 02:55:22.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[16May2025 02:55:22.824] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.0.15 Target: 8.1.32
+[16May2025 02:55:22.940] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.940] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.941] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.941] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.941] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.941] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.941] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.942] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.942] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.942] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.942] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.942] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.942] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.943] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.943] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.943] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.943] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.943] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.944] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.944] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.944] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.944] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.944] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.944] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.945] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.945] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.946] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.946] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.946] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.946] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.947] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.947] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.948] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.948] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.948] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.948] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.948] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.948] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.949] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.949] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.949] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.949] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.949] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.949] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.950] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.950] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.950] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.951] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.951] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.951] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.951] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.951] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.952] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.952] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.952] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.952] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.952] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.953] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.953] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.953] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.956] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.956] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.956] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.956] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.957] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.957] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.959] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.959] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.962] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.962] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.962] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.962] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.963] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.966] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.966] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.966] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.966] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.966] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.967] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.969] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.969] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.969] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.970] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.975] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.980] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.980] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.980] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.980] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.982] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.983] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.983] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.983] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.984] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.984] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.985] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.985] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.985] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.986] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.986] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.986] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.986] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.987] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.987] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.987] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.987] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.988] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.988] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.988] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.988] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.988] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.989] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.989] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.989] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.989] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.989] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.989] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.990] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.990] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.990] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.990] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.990] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.990] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.991] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.992] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.995] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.996] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.996] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.997] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.997] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.997] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.998] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.998] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:22.998] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:22.998] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.221] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.221] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.222] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.222] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.222] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.223] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.223] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.223] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.223] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.223] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.224] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.224] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.224] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.224] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.225] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.226] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.226] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.226] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.227] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.227] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.227] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.228] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.228] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.228] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.228] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.228] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.229] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.229] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.229] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.229] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.229] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.229] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.230] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.230] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.230] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.230] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.230] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.230] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.231] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.231] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.231] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.231] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.231] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.231] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.232] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.232] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.232] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.232] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.232] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.232] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.233] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.233] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.233] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.233] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.233] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.233] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.233] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.233] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.235] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.235] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.235] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.235] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.235] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.236] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.236] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.236] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.236] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.236] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.237] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.237] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.237] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.237] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.237] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.237] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.238] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.238] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.238] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.238] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.238] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.239] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.239] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.239] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.239] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.239] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.239] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.240] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.240] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.240] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.240] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.240] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.241] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.241] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.241] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.241] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.241] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.241] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.242] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.242] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.242] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.242] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.242] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.242] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.243] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.243] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.243] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.243] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.243] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.243] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.244] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.244] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.244] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.244] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.245] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.245] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.245] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.245] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.245] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.246] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.246] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.246] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.247] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.247] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.248] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.249] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.249] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.249] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.249] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.250] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.250] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.250] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.250] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.251] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.251] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[16May2025 02:55:23.251] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[16May2025 02:55:23.635] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/A/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23319!/assets/.mcassetsroot' uses unexpected schema
+[16May2025 02:55:23.635] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/A/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23319!/data/.mcassetsroot' uses unexpected schema
+[16May2025 02:55:23.792] [main/ERROR] [Cristel Lib/]: Cristel Lib Config Pack has no data
+[16May2025 02:55:23.793] [main/WARN] [Cristel Lib/]: T&T Waystone Patch Pack accepted!
+[16May2025 02:55:24.920] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
+[16May2025 02:55:29.009] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[16May2025 02:55:29.208] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.4 MC 1.20.1.jar)
+[16May2025 02:55:29.230] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag blueprint:generates_overrides as it is missing following references: unusualend:prismalite_gem (from unusualend-2.3.0-forge-1.20.1.jar), 
 	unusualend:shiny_crystal (from unusualend-2.3.0-forge-1.20.1.jar), 
 	unusualend:citrine_chunk (from unusualend-2.3.0-forge-1.20.1.jar), 
 	unusualend:pearlescent_ingot (from unusualend-2.3.0-forge-1.20.1.jar)
-[15May2025 22:55:14.028] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.4 MC 1.20.1.jar)
-[15May2025 22:55:14.185] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag arthropocolypse:desert_nest_avoid as it is missing following references: minecraft:desert_pyramid (from arthropocolypse-1.0.6.jar)
-[15May2025 22:55:14.288] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:mushroom_grow_block as it is missing following references: netherdungeons:growth_mauve (from netherdungeons-1.1.0-snapshot4.jar)
-[15May2025 22:55:15.704] [Worker-Main-1/INFO] [epicfight/]: Register animations from epicfight
-[15May2025 22:55:16.597] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
+[16May2025 02:55:29.268] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag arthropocolypse:desert_nest_avoid as it is missing following references: minecraft:desert_pyramid (from arthropocolypse-1.0.6.jar)
+[16May2025 02:55:29.657] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag unusualend:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.3.0-forge-1.20.1.jar)
+[16May2025 02:55:29.657] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:void_tracker_located as it is missing following references: minecraft: (from unusualend-2.3.0-forge-1.20.1.jar)
+[16May2025 02:55:29.837] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:mushroom_grow_block as it is missing following references: netherdungeons:growth_mauve (from netherdungeons-1.1.0-snapshot4.jar)
+[16May2025 02:55:31.092] [Worker-Main-3/INFO] [epicfight/]: Register animations from epicfight
+[16May2025 02:55:32.198] [Worker-Main-3/INFO] [epicfight/]: Register animations from wom
+[16May2025 02:55:32.272] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23319!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -708,8 +709,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[15May2025 22:55:16.723] [Worker-Main-1/INFO] [epicfight/]: Register animations from wom
-[15May2025 22:55:18.076] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:dragnlivestock:entities/tfc/tfc_o_cod
+[16May2025 02:55:33.833] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:dragnlivestock:entities/tfc/tfc_o_cod
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'tfc:food/cod'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23319!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -761,7 +761,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[15May2025 22:55:18.600] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:dragnlivestock:grant_book_on_first_join
+[16May2025 02:55:34.413] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:dragnlivestock:grant_book_on_first_join
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23319!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -813,7 +813,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[15May2025 22:55:20.827] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:dragnlivestock:entities/o_horse_create
+[16May2025 02:55:36.795] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:dragnlivestock:entities/o_horse_create
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'create:super_glue'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23319!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -865,7 +865,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[15May2025 22:55:20.915] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:dragnlivestock:entities/tfc/tfc_o_salmon
+[16May2025 02:55:36.824] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:dragnlivestock:entities/tfc/tfc_o_salmon
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'tfc:food/cod'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23319!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -917,29 +917,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[15May2025 22:55:22.781] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 0 modifier groups
-[15May2025 22:55:22.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[15May2025 22:55:22.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[15May2025 22:55:22.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/crown_squid}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[15May2025 22:55:22.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminous_nether:entities/ghost}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[15May2025 22:55:22.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminous_nether:entities/piglin_ghost}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[15May2025 22:55:22.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[15May2025 22:55:22.922] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:bk: com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
-[15May2025 22:55:22.925] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet: com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
-[15May2025 22:55:22.947] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:pb: com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
-[15May2025 22:55:22.985] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
-[15May2025 22:55:22.995] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
-[15May2025 22:55:23.017] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:b: com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
-[15May2025 22:55:23.027] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tfc:tfc_bucket: com.google.gson.JsonSyntaxException: Unknown item 'tfc:metal/ingot/copper'
-[15May2025 22:55:23.030] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe luminous_nether:supplementaries_ash_block: com.google.gson.JsonSyntaxException: Unknown item 'supplementaries:ash'
-[15May2025 22:55:23.035] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:nca: com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
-[15May2025 22:55:23.036] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:ncc: com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
-[15May2025 22:55:23.054] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mofus_better_end_:end_engine_recipe: com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod_element'
-[15May2025 22:55:23.064] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe netherdungeons:crafting/chiseled_polished_gilded_blackstone: com.google.gson.JsonSyntaxException: Unknown item 'netherdungeons:polished_gilded_blackstone_slab'
-[15May2025 22:55:23.066] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
-[15May2025 22:55:23.097] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
-[15May2025 22:55:23.097] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 0 modifier groups
-[15May2025 22:55:23.101] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[16May2025 02:55:38.518] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 0 modifier groups
+[16May2025 02:55:38.611] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[16May2025 02:55:38.611] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[16May2025 02:55:38.611] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/crown_squid}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[16May2025 02:55:38.612] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminous_nether:entities/ghost}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[16May2025 02:55:38.612] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminous_nether:entities/piglin_ghost}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[16May2025 02:55:38.612] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[16May2025 02:55:38.664] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:bk: com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
+[16May2025 02:55:38.667] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet: com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
+[16May2025 02:55:38.694] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:pb: com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
+[16May2025 02:55:38.725] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
+[16May2025 02:55:38.735] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
+[16May2025 02:55:38.759] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:b: com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
+[16May2025 02:55:38.772] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tfc:tfc_bucket: com.google.gson.JsonSyntaxException: Unknown item 'tfc:metal/ingot/copper'
+[16May2025 02:55:38.778] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe luminous_nether:supplementaries_ash_block: com.google.gson.JsonSyntaxException: Unknown item 'supplementaries:ash'
+[16May2025 02:55:38.788] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:nca: com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
+[16May2025 02:55:38.789] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:ncc: com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
+[16May2025 02:55:38.805] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mofus_better_end_:end_engine_recipe: com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod_element'
+[16May2025 02:55:38.816] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe netherdungeons:crafting/chiseled_polished_gilded_blackstone: com.google.gson.JsonSyntaxException: Unknown item 'netherdungeons:polished_gilded_blackstone_slab'
+[16May2025 02:55:38.820] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
+[16May2025 02:55:38.857] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
+[16May2025 02:55:38.857] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 0 modifier groups
+[16May2025 02:55:38.860] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -955,104 +955,70 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23319!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[15May2025 22:55:23.329] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4615 advancements
-[15May2025 22:55:23.340] [main/INFO] [placebo/]: Registered 0 additional recipes.
-[15May2025 22:55:23.498] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 15 curio slots
-[15May2025 22:55:23.508] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[15May2025 22:55:23.510] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[15May2025 22:55:23.563] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 1 modifier groups
-[15May2025 22:55:23.565] [main/INFO] [placebo/]: Registered 0 gear_sets.
-[15May2025 22:55:24.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[15May2025 22:55:24.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[15May2025 22:55:24.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[15May2025 22:55:24.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[15May2025 22:55:24.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[15May2025 22:55:24.641] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[15May2025 22:55:24.784] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15May2025 22:55:24.785] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[15May2025 22:55:24.785] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15May2025 22:55:24.785] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[15May2025 22:55:24.817] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[15May2025 22:55:24.833] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[15May2025 22:55:24.835] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[15May2025 22:55:25.209] [Server thread/INFO] [Framework/]: Loading server configs...
-[15May2025 22:55:25.268] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
-[15May2025 22:55:25.269] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
-[15May2025 22:55:25.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[15May2025 22:55:26.164] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[15May2025 22:55:26.872] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
-[15May2025 22:55:27.234] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[15May2025 22:55:29.419] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[15May2025 22:55:29.426] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[15May2025 22:55:29.448] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[15May2025 22:55:29.479] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[15May2025 22:55:29.504] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[15May2025 22:55:29.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[15May2025 22:55:30.460] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15May2025 22:55:30.461] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15May2025 22:55:30.550] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15May2025 22:55:31.031] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15May2025 22:55:31.597] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15May2025 22:55:32.056] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15May2025 22:55:32.510] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15May2025 22:55:33.011] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15May2025 22:55:33.657] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4148 ms
-[15May2025 22:55:33.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.850s)! For help, type "help"
-[15May2025 22:55:34.009] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[15May2025 22:55:34.064] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[15May2025 22:55:34.065] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[15May2025 22:55:34.066] [Server thread/WARN] [ModernFix/]: Dedicated server took 81.165 seconds to load
-[15May2025 22:55:36.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[15May2025 22:56:24.830] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[15May2025 22:56:25.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elbbtick2142[/172.24.192.1:54537] logged in with entity id 6016 at (2907.512499988079, 64.0, -222.93596048759014)
-[15May2025 22:56:25.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 joined the game
-[15May2025 22:56:25.723] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3267ms or 65 ticks
-[15May2025 22:56:32.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[15May2025 22:56:47.650] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3113ms or 62 ticks
-[15May2025 22:56:51.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4668ms or 93 ticks behind
-[15May2025 22:57:09.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2667ms or 53 ticks behind
-[15May2025 22:57:34.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2293ms or 45 ticks behind
-[15May2025 22:58:14.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[15May2025 22:58:53.966] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3097ms or 61 ticks
-[15May2025 22:58:54.511] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20780, l='ServerLevel[world]', x=2893.24, y=-256.00, z=-303.31] died, message: 'Villager was killed'
-[15May2025 23:01:05.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2907, y=63, z=-227} BlockPos{x=2967, y=68, z=-179}
-[15May2025 23:01:05.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2907, y=63, z=-227} BlockPos{x=2967, y=68, z=-179}
-[15May2025 23:02:35.939] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3163ms or 63 ticks
-[15May2025 23:04:16.311] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3300ms or 66 ticks
-[15May2025 23:05:49.971] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3360ms or 67 ticks
-[15May2025 23:07:29.163] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3169ms or 63 ticks
-[15May2025 23:09:44.672] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3018ms or 60 ticks
-[15May2025 23:11:00.527] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3038ms or 60 ticks
-[15May2025 23:11:17.036] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3244ms or 64 ticks
-[15May2025 23:11:44.157] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3080ms or 61 ticks
-[15May2025 23:11:57.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2191ms or 43 ticks behind
-[15May2025 23:12:06.232] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3123ms or 62 ticks
-[15May2025 23:12:26.919] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3050ms or 61 ticks
-[15May2025 23:12:48.773] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46871, l='ServerLevel[world]', x=2893.22, y=-256.00, z=-302.43] died, message: 'Villager was killed'
-[15May2025 23:12:52.776] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3160ms or 63 ticks
-[15May2025 23:13:10.478] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3287ms or 65 ticks
-[15May2025 23:13:35.483] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3318ms or 66 ticks
-[15May2025 23:14:06.499] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3063ms or 61 ticks
-[15May2025 23:14:33.058] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3068ms or 61 ticks
-[15May2025 23:14:50.578] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3195ms or 63 ticks
-[15May2025 23:14:53.187] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51729, l='ServerLevel[world]', x=2907.59, y=-256.00, z=-222.97] died, message: 'Villager was killed'
-[15May2025 23:15:29.295] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3185ms or 63 ticks
-[15May2025 23:15:52.719] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52178, l='ServerLevel[world]', x=2887.30, y=-256.00, z=-309.44] died, message: 'Villager was killed'
-[15May2025 23:16:02.191] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3020ms or 60 ticks
-[15May2025 23:17:20.478] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3292ms or 65 ticks
-[15May2025 23:19:29.396] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3246ms or 64 ticks
-[15May2025 23:21:21.614] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3167ms or 63 ticks
-[15May2025 23:24:49.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2886, y=62, z=-212} BlockPos{x=2896, y=62, z=-211}
-[15May2025 23:26:06.886] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3023ms or 60 ticks
-[15May2025 23:35:09.719] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/78115, l='ServerLevel[world]', x=2905.19, y=-256.00, z=-216.04] died, message: 'Villager was killed'
-[15May2025 23:35:52.063] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3231ms or 64 ticks
-[15May2025 23:36:16.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 lost connection: Disconnected
-[15May2025 23:36:16.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 left the game
-[15May2025 23:36:46.357] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elbbtick2142[/172.24.192.1:56948] logged in with entity id 79044 at (2907.562780767995, 67.0, -239.17150330523046)
-[15May2025 23:36:46.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 joined the game
-[15May2025 23:37:14.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 burned to death
-[15May2025 23:37:14.285] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
-[15May2025 23:38:28.455] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3153ms or 63 ticks
-[15May2025 23:39:03.719] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/91585, l='ServerLevel[world]', x=2907.60, y=-256.00, z=-223.03] died, message: 'Villager was killed'
-[15May2025 23:44:06.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 lost connection: Disconnected
-[15May2025 23:44:06.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 left the game
+[16May2025 02:55:39.120] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4615 advancements
+[16May2025 02:55:39.134] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[16May2025 02:55:39.292] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 15 curio slots
+[16May2025 02:55:39.305] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[16May2025 02:55:39.306] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[16May2025 02:55:39.365] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 1 modifier groups
+[16May2025 02:55:39.366] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[16May2025 02:55:40.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[16May2025 02:55:40.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[16May2025 02:55:40.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[16May2025 02:55:40.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16May2025 02:55:40.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[16May2025 02:55:40.581] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[16May2025 02:55:40.711] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16May2025 02:55:40.712] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[16May2025 02:55:40.712] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16May2025 02:55:40.713] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[16May2025 02:55:40.740] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[16May2025 02:55:40.758] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[16May2025 02:55:40.760] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[16May2025 02:55:41.135] [Server thread/INFO] [Framework/]: Loading server configs...
+[16May2025 02:55:41.217] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
+[16May2025 02:55:41.218] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
+[16May2025 02:55:41.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[16May2025 02:55:42.417] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16May2025 02:55:43.161] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
+[16May2025 02:55:43.558] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16May2025 02:55:43.575] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16May2025 02:55:45.471] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16May2025 02:55:45.509] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16May2025 02:55:45.517] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16May2025 02:55:45.537] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[16May2025 02:55:45.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16May2025 02:55:47.540] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16May2025 02:55:47.619] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16May2025 02:55:48.309] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16May2025 02:55:48.512] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16May2025 02:55:48.547] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16May2025 02:55:48.578] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16May2025 02:55:48.660] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16May2025 02:55:49.051] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16May2025 02:55:49.596] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4052 ms
+[16May2025 02:55:49.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.866s)! For help, type "help"
+[16May2025 02:55:49.945] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[16May2025 02:55:50.011] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[16May2025 02:55:50.013] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[16May2025 02:55:50.015] [Server thread/WARN] [ModernFix/]: Dedicated server took 69.337 seconds to load
+[16May2025 02:55:52.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[16May2025 02:56:27.182] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[16May2025 02:56:27.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elbbtick2142[/172.24.192.1:53604] logged in with entity id 6003 at (2907.305146384766, 64.0, -221.8419215458699)
+[16May2025 02:56:27.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 joined the game
+[16May2025 02:56:28.292] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3859ms or 77 ticks
+[16May2025 02:56:29.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16May2025 02:56:54.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9576ms or 191 ticks behind
+[16May2025 02:57:00.179] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3043ms or 60 ticks
+[16May2025 02:57:08.096] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16894, l='ServerLevel[world]', x=2893.24, y=-256.00, z=-303.31] died, message: 'Villager was killed'
+[16May2025 02:57:13.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4209ms or 84 ticks behind
+[16May2025 02:57:33.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16May2025 02:57:53.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16May2025 02:57:56.209] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18277, l='ServerLevel[world]', x=2893.22, y=-256.00, z=-302.43] died, message: 'Villager was killed'
+[16May2025 02:58:34.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16May2025 02:58:58.656] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3234ms or 64 ticks
+[16May2025 02:59:11.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16May2025 03:02:52.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.24.219.77:63715] logged in with entity id 24603 at (2881.513765958172, 65.0, -276.38561755846166)
+[16May2025 03:02:52.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[16May2025 03:04:14.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> hat granja de experiencia?
+[16May2025 03:04:21.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbbtick2142> no}

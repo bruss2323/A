@@ -983,6 +983,7 @@
       "minecraft:zombified_piglin": "2025-05-04 03:39:58 +0000",
       "minecraft:witch": "2025-05-12 07:56:45 +0000",
       "minecraft:wither_skeleton": "2025-05-04 03:21:47 +0000",
+      "minecraft:cave_spider": "2025-05-16 06:29:13 +0000",
       "minecraft:piglin": "2025-05-03 03:10:58 +0000",
       "minecraft:enderman": "2025-05-08 02:56:44 +0000",
       "minecraft:stray": "2025-05-09 16:51:46 +0000",
@@ -9196,6 +9197,180 @@
   "iceandfire:recipes/combat/dragonbone_arrow": {
     "criteria": {
       "has_item": "2025-05-16 05:10:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_tail": {
+    "criteria": {
+      "has_the_recipe": "2025-05-16 06:23:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_head": {
+    "criteria": {
+      "has_the_recipe": "2025-05-16 06:24:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-05-16 06:35:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-05-16 06:36:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-05-16 06:36:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-16 06:36:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-05-16 06:36:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-05-16 06:36:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-05-16 06:52:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-16 06:52:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-05-16 06:52:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-05-16 06:52:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-05-16 06:52:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-17 23:22:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-17 23:22:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-17 23:22:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-17 23:22:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-17 23:22:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-17 23:22:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-17 23:22:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-17 23:22:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-17 23:22:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-17 23:22:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-17 23:22:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-17 23:22:06 +0000"
+    },
+    "done": false
+  },
+  "hoppergadgetry:recipes/redstone/chute": {
+    "criteria": {
+      "has_chest": "2025-05-17 23:17:13 +0000"
+    },
+    "done": true
+  },
+  "hoppergadgetry:recipes/redstone/grated_hopper_from_hopper": {
+    "criteria": {
+      "has_hopper": "2025-05-17 23:17:19 +0000"
+    },
+    "done": true
+  },
+  "hoppergadgetry:recipes/redstone/grated_hopper": {
+    "criteria": {
+      "has_chest": "2025-05-17 23:17:13 +0000"
+    },
+    "done": true
+  },
+  "hoppergadgetry:recipes/redstone/duct": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-17 23:16:22 +0000"
     },
     "done": true
   },

@@ -2402,3 +2402,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17May2025 23:16:53.777] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [150, -51], size does not match; expected: 52, got: 37
 [17May2025 23:16:53.778] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [150, -51], size does not match; expected: 52, got: 37
 [17May2025 23:16:53.778] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [150, -51], size does not match; expected: 52, got: 37
+[17May2025 23:31:46.685] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3072ms or 61 ticks
+[17May2025 23:35:01.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 moved wrongly!

@@ -2404,3 +2404,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17May2025 23:16:53.778] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [150, -51], size does not match; expected: 52, got: 37
 [17May2025 23:31:46.685] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3072ms or 61 ticks
 [17May2025 23:35:01.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 moved wrongly!
+[17May2025 23:47:00.633] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3010ms or 60 ticks
+[17May2025 23:51:01.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id themutantmobsmod:mutant_zoglin
+[17May2025 23:51:02.688] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id themutantmobsmod:mutant_strider
+[17May2025 23:51:03.173] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id themutantmobsmod:mutant_strider
+[17May2025 23:51:04.349] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id themutantmobsmod:mutant_strider
+[17May2025 23:51:06.690] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [33, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.690] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [33, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.690] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [33, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.690] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [33, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.691] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [34, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.691] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [34, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.692] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [34, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.692] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [34, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.692] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [35, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.692] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [35, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.692] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [35, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.692] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [35, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.958] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [36, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.958] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [36, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.958] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [36, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.958] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [36, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.239] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -5], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.239] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -5], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.239] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -5], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.240] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -5], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.243] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -4], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.244] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -4], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.244] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -4], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.244] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -4], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.249] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -3], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.249] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -3], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.249] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -3], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.249] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -3], size does not match; expected: 52, got: 37
+[17May2025 23:52:07.170] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3274ms or 65 ticks
+[17May2025 23:52:44.863] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/168760, l='ServerLevel[world]', x=2893.22, y=-256.00, z=-302.43] died, message: 'Villager was killed'

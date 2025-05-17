@@ -8864,3 +8864,91 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17May2025 23:42:07.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17May2025 23:45:31.185] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@1328ce23 for service interface com.blamejared.clumps.platform.IEventHelper
 [17May2025 23:45:31.186] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@2fd0adc0 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[17May2025 23:47:00.633] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3010ms or 60 ticks
+[17May2025 23:47:07.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 23:47:07.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 23:50:54.177] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[17May2025 23:51:01.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id themutantmobsmod:mutant_zoglin
+[17May2025 23:51:01.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of netherdungeons:altar/small_altar_1
+[17May2025 23:51:01.715] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[17May2025 23:51:01.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road10
+[17May2025 23:51:01.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter2
+[17May2025 23:51:01.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter3
+[17May2025 23:51:01.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road9
+[17May2025 23:51:01.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack2
+[17May2025 23:51:01.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large7
+[17May2025 23:51:01.724] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/stilt1
+[17May2025 23:51:01.725] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large3
+[17May2025 23:51:01.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large5
+[17May2025 23:51:01.728] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road1
+[17May2025 23:51:01.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small5
+[17May2025 23:51:01.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road8
+[17May2025 23:51:01.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large2
+[17May2025 23:51:01.733] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road5
+[17May2025 23:51:01.733] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack1
+[17May2025 23:51:01.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road3
+[17May2025 23:51:01.735] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small2
+[17May2025 23:51:01.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter1
+[17May2025 23:51:01.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road7
+[17May2025 23:51:01.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large4
+[17May2025 23:51:01.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small3
+[17May2025 23:51:01.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_armored
+[17May2025 23:51:01.748] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large6
+[17May2025 23:51:01.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road11
+[17May2025 23:51:01.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter4
+[17May2025 23:51:01.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_miner1
+[17May2025 23:51:01.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden3
+[17May2025 23:51:01.754] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden2
+[17May2025 23:51:01.757] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small1
+[17May2025 23:51:01.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small4
+[17May2025 23:51:02.688] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id themutantmobsmod:mutant_strider
+[17May2025 23:51:02.777] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin
+[17May2025 23:51:02.780] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_5
+[17May2025 23:51:02.782] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[17May2025 23:51:02.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[17May2025 23:51:02.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[17May2025 23:51:02.786] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[17May2025 23:51:02.786] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[17May2025 23:51:02.787] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[17May2025 23:51:02.787] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[17May2025 23:51:02.787] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_6
+[17May2025 23:51:02.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[17May2025 23:51:02.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_7
+[17May2025 23:51:02.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[17May2025 23:51:02.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner_2
+[17May2025 23:51:02.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[17May2025 23:51:02.791] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
+[17May2025 23:51:03.173] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id themutantmobsmod:mutant_strider
+[17May2025 23:51:04.349] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id themutantmobsmod:mutant_strider
+[17May2025 23:51:06.690] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [33, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.690] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [33, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.690] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [33, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.690] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [33, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.691] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [34, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.691] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [34, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.692] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [34, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.692] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [34, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.692] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [35, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.692] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [35, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.692] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [35, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.692] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [35, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.958] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [36, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.958] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [36, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.958] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [36, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:06.958] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [36, -17], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.239] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -5], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.239] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -5], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.239] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -5], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.240] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -5], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.243] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -4], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.244] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -4], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.244] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -4], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.244] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -4], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.249] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -3], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.249] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -3], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.249] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -3], size does not match; expected: 52, got: 37
+[17May2025 23:51:13.249] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [23, -3], size does not match; expected: 52, got: 37
+[17May2025 23:52:07.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 23:52:07.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 23:52:07.170] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3274ms or 65 ticks
+[17May2025 23:52:44.863] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/168760, l='ServerLevel[world]', x=2893.22, y=-256.00, z=-302.43] died, message: 'Villager was killed'
